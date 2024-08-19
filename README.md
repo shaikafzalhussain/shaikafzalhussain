@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I have completed my Internship in Rooman Technologies on AWS [Deploying the high Availability Web Application](https://github.com/shaikafzalhussain/DEPLOYING-THE-HIGH-AVAILABILITY-WEB-APPLICATION)
+- 🔭 I have completed my Internship in Rooman Technologies on AWS  on Cloud Computing [Deploying the high Availability Web Application](https://github.com/shaikafzalhussain/DEPLOYING-THE-HIGH-AVAILABILITY-WEB-APPLICATION)
 
 - 🌱 I’m currently learning *AWS, GITHUB*
 
