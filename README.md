@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaikafzalhussain](https://github.com/shaikafzalhussain)
 
-- 🤵🏻 IT Skills [AWS Services (EC2, S3, RDS, ELB, EBS, IAM, CLOUDWATCH, VPC, ROUTE53, NACL's,), Github, Linux](AWS Services (EC2, S3, RDS, ELB, EBS, IAM, CLOUDWATCH, VPC, ROUTE53, NACL's,), Github, Linux)
+- 🤵🏻 IT Skills : [AWS Services (EC2, S3, RDS, ELB, EBS, IAM, CLOUDWATCH, VPC, ROUTE53, NACL's,), Github, Linux]
 
 - 📫 How to reach me *safzalhussain3@gmail.com*
 
-- ⚡ Soft Skills *Communication skills, Time management, Strong Problem Solving, Patience, Adaptability*
+- ⚡ Soft Skills : *Communication skills, Time management, Strong Problem Solving, Patience, Adaptability*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
